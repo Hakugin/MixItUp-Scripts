@@ -15,3 +15,4 @@ get_file_list.py
 Use "External Program" action to use in MixItUp.
 - Program Path should point to python.exe (3.8.x or higher)
 - Program Arguments should match Usage/Example above
+- Make sure "Wait until complete" is checked
