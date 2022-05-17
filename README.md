@@ -5,7 +5,7 @@ This is my collection of Python 3.8.x (or higher) scripts created for MixItUp Ch
 I will do my best to keep the scripts commented with how the code works
 
 
-# Scripts currently available:
+## Scripts currently available:
 get_file_list.py
 - Requires no additional modules
 - Creates a text file listing media files from target folder using the following arguments
@@ -16,3 +16,6 @@ Use "External Program" action to use in MixItUp.
 - Program Path should point to python.exe (3.8.x or higher)
 - Program Arguments should match Usage/Example above
 - Make sure "Wait until complete" is checked
+
+### Notes on get_file_list:
+  I have this added to "Events > Generic > Application Launch" to generate the list when MixItUp launches
