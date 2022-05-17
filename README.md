@@ -6,7 +6,7 @@ I will do my best to keep the scripts commented with how the code works
 
 
 ## Scripts currently available:
-###get_file_list.py
+### get_file_list.py
 - Requires no additional modules
 - Creates a text file listing media files from target folder using the following arguments
 -- Usage: <script> "path/to/text/file" "folder/path/to/scan" "list of extensions to add"
@@ -22,7 +22,7 @@ Use "External Program" action to use in MixItUp.
 
 
 
-###get_video_duration.py
+### get_video_duration.py
 - Requires OpenCV2 and MediaInfo modules
   Installing/Upgrading on Windows: (Python 3.8.x)
     python -m pip install --upgrade opencv-python
