@@ -4,6 +4,8 @@ My Python 3.8.x scripts for MixItUp (Chat bot) app
 This is my collection of Python 3.8.x (or higher) scripts created for MixItUp Chat Bot.
 I will do my best to keep the scripts commented with how the code works
 
+***License: GNU General Public License v3.0***
+
 
 ## Scripts currently available:
 ### get_file_list.py
